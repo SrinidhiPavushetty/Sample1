@@ -1,7 +1,7 @@
 # Sample1
 
 
-![title](https://user-images.githubusercontent.com/99179599/155170415-1f6d8862-62b9-4ac6-a7cd-007c0e493214.PNG)
+
 ![Cap](https://user-images.githubusercontent.com/99179599/155170444-55e20efd-1700-4c67-b6b4-7aa52a22222b.PNG)
 ![end1](https://user-images.githubusercontent.com/99179599/155170460-80757142-b89b-49ed-812d-098e0544d491.PNG)
 ![end2](https://user-images.githubusercontent.com/99179599/155170481-c2f74a87-67e3-4a00-afdc-fda5b683b747.PNG)
